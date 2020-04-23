@@ -7,7 +7,12 @@ A Cube, made out of little cubes that are shifting around
 
 The Project is written in JavaScript, using the [P5JS library](https://p5js.org/).
 
-All cubes are objects that move around on their own.
+All little cubes are objects that move around on their own.
+
+## Credit
+
+This was not my idea, all the credit goes to the YouTube-channel [RenderedByBlender](https://www.youtube.com/channel/UCjwgRphtiLuhYVlEv_0sEdw) who posted [this video](https://www.youtube.com/watch?v=S7kdxLIwsIA).
+He did it using Blender and Python, I made my own version in P5JS, ready for the web!
 
 ## How to use
 
@@ -46,11 +51,6 @@ randomizeMove(index) {
   if (Math.floor(Math.random() * 50) === 0) this.changeCoords(index);
 }
 ```
-
-## Background
-
-This was not my idea, all the credit goes to the YouTube-channel [RenderedByBlender](https://www.youtube.com/channel/UCjwgRphtiLuhYVlEv_0sEdw) who posted [this video](https://www.youtube.com/watch?v=S7kdxLIwsIA).
-He did it with blender and python, I made my own version in P5JS.
 
 ## More information
 
