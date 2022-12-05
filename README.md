@@ -52,6 +52,3 @@ randomizeMove(index) {
 }
 ```
 
-## More information
-
-I blogged about this project [here](https://breaksome.tech/coding-shifting-cubes-in-p5js/).
